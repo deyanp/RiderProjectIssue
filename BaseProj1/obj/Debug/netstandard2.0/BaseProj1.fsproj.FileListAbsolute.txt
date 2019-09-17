@@ -1,0 +1,8 @@
+C:\Users\Deyan\temp\BaseProj1\bin\Debug\netstandard2.0\BaseProj1.deps.json
+C:\Users\Deyan\temp\BaseProj1\bin\Debug\netstandard2.0\BaseProj1.dll
+C:\Users\Deyan\temp\BaseProj1\bin\Debug\netstandard2.0\BaseProj1.pdb
+C:\Users\Deyan\temp\BaseProj1\obj\Debug\netstandard2.0\BaseProj1.fsprojAssemblyReference.cache
+C:\Users\Deyan\temp\BaseProj1\obj\Debug\netstandard2.0\BaseProj1.AssemblyInfoInputs.cache
+C:\Users\Deyan\temp\BaseProj1\obj\Debug\netstandard2.0\BaseProj1.AssemblyInfo.fs
+C:\Users\Deyan\temp\BaseProj1\obj\Debug\netstandard2.0\BaseProj1.dll
+C:\Users\Deyan\temp\BaseProj1\obj\Debug\netstandard2.0\BaseProj1.pdb
